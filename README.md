@@ -14,7 +14,7 @@ This Streamlit app allows you to explore and visualize how different regularizat
 
 Try the deployed app here:
 
-[👉 Random Forest Explorer Demo](https://iamratinder-regularization-streamlit-app-2ok87f.streamlit.app/)
+[Visualize Regularization](https://iamratinder-regularization-streamlit-app-2ok87f.streamlit.app/)
 
 Or open:  
 `https://iamratinder-regularization-streamlit-app-2ok87f.streamlit.app/`
