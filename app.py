@@ -17,7 +17,7 @@ st.markdown("Choose a dataset and see how different regularization methods affec
 st.sidebar.header("🔧 Model Settings")
 
 # Dataset Selector
-dataset_name = st.sidebar.selectbox("📁 Choose Dataset", ["California Housing", "Diabetes", "Synthetic Regression"])
+dataset_name = st.sidebar.selectbox("📁 Choose Dataset", ["Diabetes", "California Housing", "Synthetic Regression"])
 
 @st.cache_data
 def load_data(name):
