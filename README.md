@@ -10,6 +10,17 @@ This Streamlit app allows you to explore and visualize how different regularizat
 - See model performance metrics (R² Score, Mean Squared Error).
 - Visualize predictions for a selected feature.
 
+## Demo
+
+Try the deployed app here:
+
+[👉 Random Forest Explorer Demo](https://iamratinder-regularization-streamlit-app-2ok87f.streamlit.app/)
+
+Or open:  
+`https://iamratinder-regularization-streamlit-app-2ok87f.streamlit.app/`
+
+NOTE : Use in Light Mode for better UI
+
 ## Setup
 
 1. **Clone the repository** (or download the code):
